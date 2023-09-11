@@ -5,8 +5,7 @@
 Binaries/
 DerivedDataCache/
 Intermediate/
-Plugins/*/Binaries/
-Plugins/*/Intermediate/
+Plugins/
 Saved/
 Build/
 Builds/
