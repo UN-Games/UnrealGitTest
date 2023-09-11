@@ -5,20 +5,21 @@
 Binaries/
 DerivedDataCache/
 Intermediate/
+Plugins/*/Binaries/
 Plugins/*/Intermediate/
 Saved/
 Build/
 Builds/
 
 # Wwise Project
-Wwise/IncrementalSoundBankData.xml
-Wwise/.cache/
-Wwise/.backup/
-Wwise/*.akd
-Wwise/*.akpk
-Wwise/*.prof
-Wwise/*.validationcache
-Wwise/*.wsettings
+UnrealGitTest_WwiseProject/IncrementalSoundBankData.xml
+UnrealGitTest_WwiseProject/.cache/
+UnrealGitTest_WwiseProject/.backup/
+UnrealGitTest_WwiseProject/*.akd
+UnrealGitTest_WwiseProject/*.akpk
+UnrealGitTest_WwiseProject/*.prof
+UnrealGitTest_WwiseProject/*.validationcache
+UnrealGitTest_WwiseProject/*.wsettings
 
 # Fmod Project
 FMOD/.user/
